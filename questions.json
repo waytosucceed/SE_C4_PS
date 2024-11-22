@@ -1,0 +1,232 @@
+{
+  "heading": "LCM and HCF",
+  "topics": [
+    {
+      "heading": "LCM and HCF",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is the LCM of 28 and 24?",
+          "options": [
+            { "text": "160" },
+            { "text": "166" },
+            { "text": "168" },
+            { "text": "181" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 2,
+          "question": "What is the LCM of 2 × 3 × 7 and 3<sup>2<sup> × 5?",
+          "options": [
+            { "text": "440" },
+            { "text": "630" },
+            { "text": "720" },
+            { "text": "880" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "LCM of 13 and B is 26. Then the value of B is ___ ?",
+          "options": [
+            { "text": "13" },
+            { "text": "21" },
+            { "text": "26" },
+            { "text": "39" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "Find the sum of A, B and C?<br><img width='55%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "text": "16" },
+            { "text": "18" },
+            { "text": "22" },
+            { "text": "14" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "Find the product of A, B, C, D is ___?<br><img width='55%' src='./assests/images/question/2.png'>",
+          "options": [
+            { "text": "60" },
+            { "text": "45" },
+            { "text": "30" },
+            { "text": "15" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "Two cyclists are riding on a circular track. The first cyclist completes a lap in 15 minutes, while the second cyclist takes 24 minutes to complete a lap. If they start together at the same point, after how many minutes will they meet again at the starting point?",
+          "options": [
+            { "text": "60 minutes" },
+            { "text": "72 minutes" },
+            { "text": "120 minutes" },
+            { "text": "144 minutes" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "A train leaves the station every 18 minutes, and a bus departs from the same station every 24 minutes. If both the train and the bus leave the station together at 10:00 AM, at what time will they depart together again?",
+          "options": [
+            { "text": "10:36 AM" },
+            { "text": "10:72 AM" },
+            { "text": "11:10 AM" },
+            { "text": "11:12 AM" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 8,
+          "question": "Alex and Ben are planting trees in a park. Alex plants 6 trees in a row, while Ben plants 8 trees in a row. If they end up planting the same number of trees, what is the smallest number of trees each could have planted?",
+          "options": [
+            { "text": "14" },
+            { "text": "16" },
+            { "text": "24" },
+            { "text": "48" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 9,
+          "question": "Find the smallest number that leaves a remainder of 2 when divided by 3, 4, and 5.",
+          "options": [
+            { "text": "52" },
+            { "text": "60" },
+            { "text": "62" },
+            { "text": "122" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "Find the least number which when divided by 12, 18, and 24 leaves a remainder of 5 in each case.",
+          "options": [
+            { "text": "72" },
+            { "text": "77" },
+            { "text": "144" },
+            { "text": "149" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "The HCF of two numbers is 6, and their LCM is 360. If one of the numbers is 60, find the other number.",
+          "options": [
+            { "text": "30" },
+            { "text": "72" },
+            { "text": "60" },
+            { "text": "36" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 12,
+          "question": "Two numbers are 28 and 42. If their HCF is 14, what is their LCM?",
+          "options": [
+            { "text": "42" },
+            { "text": "56" },
+            { "text": "84" },
+            { "text": "168" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "The least number which is exactly divisible by 32, 24 and 40 is:",
+          "options": [
+            { "text": "320" },
+            { "text": "480" },
+            { "text": "960" },
+            { "text": "1920" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "Two wires, 36 meters and 48 meters long, are to be cut into smaller pieces of equal length. What will be the maximum length of each piece?",
+          "options": [
+            { "text": "4 meters" },
+            { "text": "6 meters" },
+            { "text": "12 meters" },
+            { "text": "24 meters" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "Two numbers share a greatest divisor of 12 and a smallest shared multiple of 54. If one of the numbers is 27, find the other.",
+          "options": [
+            { "text": "36" },
+            { "text": "24" },
+            { "text": "27" },
+            { "text": "30" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "Two numbers are such that their smallest shared multiple is 102, and their greatest divisor is 6. If one number is 12, find the other number.",
+          "options": [
+            { "text": "24" },
+            { "text": "36" },
+            { "text": "42" },
+            { "text": "51" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 17,
+          "question": "Sarah and Emily are making bracelets to sell at a craft fair. Sarah makes bracelets in sets of 4, while Emily makes them in sets of 6. If they both end up making the same total number of bracelets, what is the smallest number of bracelets each could have made?",
+          "options": [
+            { "text": "12" },
+            { "text": "14" },
+            { "text": "18" },
+            { "text": "24" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "A florist has 48 red roses and 72 white roses. She wants to arrange them in bouquets with the same number of each color rose in each bouquet, using the maximum number of bouquets possible. <br>a) How many bouquets can she make? <br>b) How many roses of each color will be in each bouquet?",
+          "options": [
+            { "text": "12 bouquets, 4 red roses, 6 white roses" },
+            { "text": "18 bouquets, 4 red roses, 6 white roses" },
+            { "text": "24 bouquets, 2 red roses, 3 white roses" },
+            { "text": "24 bouquets, 4 red roses, 3 white roses" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "Three friends are running laps on a track. Runner A completes a lap every 6 minutes, Runner B completes a lap every 8 minutes, and Runner C completes a lap every 12 minutes. If they all start at the same time, after how many minutes will they all be at the starting point together again?",
+          "options": [
+            { "text": "12 minutes" },
+            { "text": "18 minutes" },
+            { "text": "24 minutes" },
+            { "text": "36 minutes" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "Two friends, David and Sophia, are arranging their marble collections. David likes to arrange his marbles in groups of 10, while Sophia prefers to arrange hers in groups of 15. If they both have the same total number of marbles and each marble is used, what is the smallest number of marbles they could each have?",
+          "options": [
+            { "text": "20" },
+            { "text": "30" },
+            { "text": "45" },
+            { "text": "60" }
+          ],
+          "answer": 1
+        }
+      ]
+      
+    
+    }
+  ]
+}
